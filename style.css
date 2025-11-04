@@ -1,3 +1,67 @@
+body {
+    margin: 30px;
+    background: #a8dadc;
+    color: black
+}
+
 img {
-    max-width: 80%;
+    width: 300px;
+}
+
+h2 {
+    color: #e63946;
+}
+
+#header {
+    background-color: #f1faee;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.section {
+    background-color: azure;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.feature {
+    background-color: #a4b1ba;
+    color: black;
+    box-shadow: 8px 8px 5px grey;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+div {
+    margin-bottom: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+#quote {
+    margin-left: 20px;
+    color: black;
+}
+
+#main_image {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+a {
+    color: #1d3557;
+    text-decoration: none;
+    background-color: yellow;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+#oth {
+    color: black;
+    margin: 10px;
 }
